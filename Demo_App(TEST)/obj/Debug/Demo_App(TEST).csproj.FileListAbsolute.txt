@@ -1,0 +1,13 @@
+C:\Users\jarvis\source\repos\Demo_App(TEST)\Demo_App(TEST)\bin\Debug\Demo_App(TEST).exe.config
+C:\Users\jarvis\source\repos\Demo_App(TEST)\Demo_App(TEST)\bin\Debug\Demo_App(TEST).exe
+C:\Users\jarvis\source\repos\Demo_App(TEST)\Demo_App(TEST)\bin\Debug\Demo_App(TEST).pdb
+C:\Users\jarvis\source\repos\Demo_App(TEST)\Demo_App(TEST)\obj\Debug\Demo_App_TEST_.Form1.resources
+C:\Users\jarvis\source\repos\Demo_App(TEST)\Demo_App(TEST)\obj\Debug\Demo_App_TEST_.Properties.Resources.resources
+C:\Users\jarvis\source\repos\Demo_App(TEST)\Demo_App(TEST)\obj\Debug\Demo_App(TEST).csproj.GenerateResource.cache
+C:\Users\jarvis\source\repos\Demo_App(TEST)\Demo_App(TEST)\obj\Debug\Demo_App(TEST).csproj.CoreCompileInputs.cache
+C:\Users\jarvis\source\repos\Demo_App(TEST)\Demo_App(TEST)\obj\Debug\Demo_App(TEST).exe
+C:\Users\jarvis\source\repos\Demo_App(TEST)\Demo_App(TEST)\obj\Debug\Demo_App(TEST).pdb
+C:\Users\jarvis\source\repos\Demo_App(TEST)\Demo_App(TEST)\obj\Debug\Demo_App_TEST_.Form2.resources
+C:\Users\jarvis\source\repos\Demo_App(TEST)\Demo_App(TEST)\obj\Debug\Demo_App(TEST).csproj.AssemblyReference.cache
+C:\Users\jarvis\source\repos\Demo_App(TEST)\Demo_App(TEST)\obj\Debug\Demo_App_TEST_.Form3.resources
+C:\Users\jarvis\source\repos\Demo_App(TEST)\Demo_App(TEST)\obj\Debug\Demo_App_TEST_.Form4.resources
